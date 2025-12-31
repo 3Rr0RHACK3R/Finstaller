@@ -44,6 +44,7 @@ The system prioritizes the intersection of `RangeSupport` and `KeepAlive` capabi
 ## Usage
 
 ### Basic Command Syntax 
+```bash
 cargo run -- --jito --link "URL" --threads 16
-
+```
 or Simply Use Command --help command to Learn More.
